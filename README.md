@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="1280" height="463" alt="banner_andriibalan_3" src="https://github.com/user-attachments/assets/2b98871a-94a5-45e8-9305-86f01bcbfd3b" />
+  <img width="1280" height="372" alt="banner_andriibalan_4" src="https://github.com/user-attachments/assets/c23b3b99-2546-4de7-8dd0-b7f18f6e542c" />
 </p>
 
 <h1 align="center">Hi, I'm Andrii Balan! 👋</h1>
@@ -57,13 +57,5 @@
 
 </tr>
 </table>
-
----
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-
-</p>
 
 
